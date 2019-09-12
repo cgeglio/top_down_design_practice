@@ -5,9 +5,10 @@
 
 2. Set Up Structure
   2.1 Setup fire pit
-      2.2.1 Arrange stones
-      2.2.2 Dig hole
+      2.1.1 Arrange stones
+      2.1.2 Dig hole
   2.2 Lean wood
+      2.2.1 Put kindling in center
 
 3. Light Fire
   3.1 Start small Fire
